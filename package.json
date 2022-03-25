@@ -1,0 +1,21 @@
+{
+  "name": "my-code",
+  "version": "1.0.0",
+  "description": "This is the location AR for info for quiz 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "location",
+    "Ar",
+    "example",
+    "coordinates",
+    "coordinate"
+  ],
+  "author": "Mohammed Mawi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
